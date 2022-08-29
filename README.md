@@ -8,7 +8,7 @@ We present the performance of different sentiment classification methods for the
 
 ## Use
 
-- Please remember to load the .csv files to the Colab session after connecting to runtime
+- Please remember to load the .csv files to the Colab session after connecting to runtime on Colab
 - Some of the cells are commented out to bypass some slow computations
 - Recommended to run the cells using Colab Pro and GPU acceleration
 - Some computations are very long (8h for SVM grid search)
