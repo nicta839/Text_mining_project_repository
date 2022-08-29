@@ -1,4 +1,4 @@
-# Text_mining_project_repository
+# Text classification method performance evaluation using the IMDb movie review dataset
  A repository for the text mining project for the course 732A92
 
 ## Abstract
